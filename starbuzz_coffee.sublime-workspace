@@ -1,0 +1,646 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"en",
+				"eng"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"f",
+				"foreach\tforeach …"
+			],
+			[
+				"array_",
+				"array_column"
+			],
+			[
+				"pr",
+				"productprice"
+			],
+			[
+				"pro",
+				"productname"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"b",
+				"product-burger"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"it",
+				"item_array"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"ite",
+				"item_array_id"
+			],
+			[
+				"arr",
+				"array_column"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"product_",
+				"product_discount"
+			],
+			[
+				"prod",
+				"product_price"
+			],
+			[
+				"d",
+				"dashed\tborder"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"m",
+				"margin-top\tproperty"
+			],
+			[
+				"c",
+				"controls\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"table",
+				"tablename"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"mysql_e",
+				"mysql_error"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"ta",
+				"tablename"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"sty",
+				"list-style\tproperty"
+			],
+			[
+				"p",
+				"productimage"
+			],
+			[
+				"com",
+				"component"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"text",
+				"textLayer"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"con",
+				"justify-content\tproperty"
+			],
+			[
+				"n",
+				"non"
+			],
+			[
+				"tr",
+				"transform-style\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"tra",
+				"translateY"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"rg",
+				"rgba()\tbackground"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"li",
+				"lightblue"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"i",
+				"initial\tline-height"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"fl",
+				"flex\tdisplay"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground-color"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"lis",
+				"list-style\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"deco",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"logo",
+				"logosmall"
+			],
+			[
+				"log",
+				"logosmaller2"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"j",
+				"javascript"
+			],
+			[
+				"bg",
+				"bg4"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"fn",
+				"font-size\tproperty"
+			],
+			[
+				"sh",
+				"shape-rendering\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/xammp/htdocs/index.php",
+		"/F/xammp/htdocs/mug&chill.html",
+		"/F/mbira backup/Users/BRIAN/Desktop/hesbon/css/multiColumnTemplate.css",
+		"/F/xammp/htdocs/loading.html",
+		"/F/xammp/htdocs/CartProgect/images/post05.jpg",
+		"/F/xammp/htdocs/CartProgect/images/post04.jpg",
+		"/F/xammp/htdocs/CartProgect/images/post03.jpg",
+		"/F/xammp/htdocs/CartProgect/images/post02.jpg",
+		"/F/xammp/htdocs/CartProgect/images/post01.jpg",
+		"/F/xammp/htdocs/mission.html",
+		"/F/xammp/htdocs/starbuzz_coffee.html",
+		"/F/xammp/htdocs/tools/style.css",
+		"/F/xammp/htdocs/component.php",
+		"/F/xammp/htdocs/php/CreateDb.php",
+		"/F/xammp/htdocs/cart.php",
+		"/F/xammp/htdocs/html_with_css&xhtml.html",
+		"/F/xammp/htdocs/php/header.php",
+		"/F/xammp/htdocs/php/cart.php",
+		"/F/xammp/htdocs/php/html_with_css&xhtml.html",
+		"/F/xammp/htdocs/Billie-Eilish-bad-guy.mp3",
+		"/F/xammp/htdocs/favicon.ico",
+		"/F/xammp/htdocs/images/product-sushi.jpg",
+		"/F/xammp/htdocs/images/product-chicken-wings.jpg",
+		"/F/xammp/htdocs/images/product-burger.jpg",
+		"/F/xammp/htdocs/images/post03.jpg",
+		"/F/xammp/htdocs/images/logosmaller1.png",
+		"/F/xammp/htdocs/images/logosmall.png",
+		"/F/xammp/htdocs/images/logomedium.png",
+		"/F/xammp/htdocs/images/Ann.png",
+		"/E/New folder (2)/js/main.js",
+		"/F/mbira backup/Users/BRIAN/Desktop/SITE/index.html",
+		"/F/mbira backup/Users/BRIAN/Desktop/SITE/particles.js",
+		"/F/xammp/htdocs/login.php",
+		"/C/Users/Brian/Documents/songs.xspf",
+		"/C/Users/Brian/Desktop/Notes/template.php",
+		"/C/Users/Brian/Downloads/flat-design-colors-css/flat_design_colors_full.css",
+		"/C/Users/Brian/Downloads/flat-design-colors-css/flat_design_colors.css",
+		"/C/Users/Brian/Desktop/web/font.html",
+		"/C/Users/Brian/Desktop/web/background.css",
+		"/C/Users/Brian/Desktop/web/background.html",
+		"/C/site/index.html",
+		"/C/site/css/style.css",
+		"/E/Store/index.html",
+		"/E/Store/css/style.css",
+		"/E/New folder (2)/main.css",
+		"/E/New folder (2)/shop.html",
+		"/E/New folder (2)/mug&chill.html",
+		"/E/New folder (2)/test.html",
+		"/C/Users/Brian/Desktop/web/fontawesome-free-5.12.1-web/css/all.css",
+		"/E/New folder (2)/index.html",
+		"/F/xammp/htdocs/tools/boott.html",
+		"/D/New folder/Soup v1_10/assets/plugins/tether/examples/facebook/facebook.css",
+		"/E/Store/css/style1.css",
+		"/E/Store/css/index1.html",
+		"/F/xammp/htdocs/try.php",
+		"/E/Store/css/index.php",
+		"/C/Users/Brian/Desktop/web/images.html",
+		"/C/Users/Brian/Desktop/web/new 1.html",
+		"/C/Users/Brian/Desktop/web/Index.html",
+		"/C/Users/Brian/Desktop/php.html",
+		"/C/Users/Brian/Desktop/web/index2.html",
+		"/D/New folder/Mora-Blog-Responsive-Website-Template/shop.html",
+		"/D/New folder/Mora-Blog-Responsive-Website-Template/index.html",
+		"/C/Users/Brian/Desktop/praco/script.html",
+		"/C/Users/Brian/Desktop/php.php",
+		"/C/site/shop.html",
+		"/C/site/js/jquery.validate.min.js",
+		"/C/site/js/jquery-3.3.1.min.js",
+		"/C/site/vendors/animate-css/wow.min.js",
+		"/C/Users/Brian/Desktop/web/style1.css",
+		"/D/New folder/Mora-Blog-Responsive-Website-Template/index-2.html",
+		"/D/New folder/Mora-Blog-Responsive-Website-Template/about.html",
+		"/D/New folder/faith2/faith2/ministries.html",
+		"/D/New folder/faith2/faith2/index.html",
+		"/C/Users/Brian/Desktop/web/style",
+		"/C/Users/Brian/Desktop/web/about.html",
+		"/F/mbira backup/Users/BRIAN/Downloads/Compressed/Responsive Web Design with HTML5 and CSS3 Second Edition_Code/Chapter 8/example_08-04/styles.css",
+		"/C/Users/Brian/Desktop/hover/style.css",
+		"/C/Users/Brian/Desktop/hover/index.html",
+		"/D/movi/Avengers Endgame 2019.mp4",
+		"/F/videos/videos/George_Ezra_Blame_It_on_Me.webm",
+		"/C/Users/Brian/AppData/Local/Temp/style.css",
+		"/F/mbira backup/Users/BRIAN/Desktop/New folder/JKUAT Student Bags the NTW 2019 Innovator of the Year Award - Jomo Kenyatta University of Agriculture and Technology.htm",
+		"/F/mbira backup/Users/BRIAN/Desktop/New folder/JKUAT Students' Portal - Exam.htm",
+		"/C/Users/Brian/Desktop/web/style.css",
+		"/D/New folder/Mora-Blog-Responsive-Website-Template/css/style.css",
+		"/C/Users/Brian/Desktop/hover/css/style.css",
+		"/D/New folder/faith2/faith2/blog.html",
+		"/D/New folder/course/course/styles/courses_styles.css",
+		"/D/New folder/course/course/styles/main_styles.css",
+		"/D/New folder/course/course/index.html",
+		"/C/Users/Brian/Desktop/blitzprojo/style.css",
+		"/C/Users/Brian/Desktop/blitzprojo/index.html",
+		"/D/New folder/faith2/faith2/style.css",
+		"/F/xammp/htdocs/Soup v1_10/Login.html",
+		"/D/New folder/Mora-Blog-Responsive-Website-Template/vendors/animate-css/animate.css",
+		"/D/New folder/Mora-Blog-Responsive-Website-Template/vendors/bootstrap-selector/nice-select.css",
+		"/D/New folder/Soup v1_10/assets/css/prettify.css",
+		"/D/New folder/Soup v1_10/blog.html",
+		"/C/Users/Brian/Desktop/web/contact.html",
+		"/D/New folder/Soup v1_10/assets/css/themify-icons.css",
+		"/D/New folder/Mora-Blog-Responsive-Website-Template/js/jquery.validate.min.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "starbuzz_coffee.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

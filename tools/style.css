@@ -1,0 +1,46 @@
+img{
+	max-width: 100%;
+	height: auto;
+	background: lightblue;
+	background:radial-gradient(white 30%,lightblue 70%);
+}
+
+.fa-star,
+.fa-star-half{
+	color: yellowgreen;
+	padding: 3% 0;
+}
+
+.fa
+nav{
+	text-align: center;
+	position: fixed;
+	background-color: lightblue;
+	width: 100%;
+	z-index: 1;
+	font-size: 24px;
+	padding:20px;
+}
+.nav nav ul li{
+	list-style: none;
+	float: left;
+	
+}
+.nav nav ul li a{
+   text-decoration: none;
+   padding-left: 20px;
+   padding-right: 20px;
+
+}
+nav ul li a:hover{
+	background-color:lightgreen;
+	color: white;
+}
+#cart_count{
+	text-align: center;
+	padding: 0 0.9rem 0.1rem 0.9rem;
+	border-radius: 3rem;
+}
+.shopping-cart{
+	padding: 3% 0;
+}

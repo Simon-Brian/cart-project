@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>bootstrap</title>
+     <link rel="stylesheet" type="text/css" href="bootstrap-4.3.1-dist/css/bootstrap.css">
+</head>
+<body>
+     <div class="col-md-3 col-sm-6 my-3 my-md-0">
+              <!--  <form action="index.php" method="post"> -->
+                <div class="card shadow">
+                    <div>
+                     <!--    <img src="web1.jpg" alt="burger" class="img-fluid card-img-top"> -->
+                     <video id="myVideo" src="car.mp4" controls="action" class="img-fluid card-img-top" ></video>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">A BMW Next Gen</h5>
+                        <h6>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="far fa-star"></i>
+                        </h6>
+                        <p class="card-text">
+                          its set to go into production in 2050
+                        </p>
+                        <h5>
+                            <small><s class="text-secondary">ksh45,570,000</s></small>
+                            <span class="price">khs37,177,500</span>
+                        </h5>
+                        <button id="myBtn" onclick="myFunction()" class="btn btn-warning my-3" >play <!-- <i class="fas fa-play"></i> --></button>
+                    </div>
+                    
+                </div>
+                   
+         <!--       </form> -->
+               
+           </div>
+           <script>
+    var video=document.getElementById("myVideo");
+    var btn=document.getElementById("myBtn");
+    function myFunction(){
+        if(video.paused){
+            video.play();
+            btn.innerHTML="Pause";
+        }
+        else{
+            video.pause();
+            btn.innerHTML="Play";
+        }
+    }
+</script>
+
+</body>
+</html>
